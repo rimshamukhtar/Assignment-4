@@ -23,6 +23,4 @@ Each assignment completed is a milestone on your journey to mastering Python. Ke
 
 ✨ **Keep up the great work, and enjoy the learning process!** ✨
 
----
 
-Feel free to add any new projects or assignments to expand your knowledge and share them with the community!
